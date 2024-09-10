@@ -1,6 +1,6 @@
 console.log("Hello boy!");
 
 const prenom = "Marcel";
-const nom = "La Pucelle";
+const nom = "Dupont";
 
 console.log("Bonjour " + prenom + " " + nom);

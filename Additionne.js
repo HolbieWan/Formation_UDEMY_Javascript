@@ -1,13 +1,13 @@
-let nombe1;
+let nombre1;
 let nombre2;
 
-function addition(nombe1, nombre2) {
-    let resultAdd = nombe1 + nombre2
+function addition(nombre1, nombre2) {
+    let resultAdd = nombre1 + nombre2
     return(resultAdd)
 }
 
-function division(nombe1, nombre2) {
-    let resultDiv = nombe1 / nombre2
+function division(nombre1, nombre2) {
+    let resultDiv = nombre1 / nombre2
     return(resultDiv)
 }
 
