@@ -4,7 +4,9 @@
     font-weight: normal;
     font-style: normal;
 }
-
+h1{
+    color:orange;
+}
 .cell{
     width: 75px;
     height: 75px;
@@ -15,6 +17,10 @@
     cursor: pointer;
     text-align: center;
     box-sizing: border-box;
+    background-color:dodgerblue
+}
+.cell:hover{
+    background-color: deepskyblue;
 }
 #gameContainer{
     font-family: "CustomFont";
@@ -26,4 +32,8 @@
     width: 225px;
     margin: auto;
     /* gap: 2px; */
+}
+#restartBtn{
+    background-color:hotpink;
+    font-family: "CustomFont";
 }
