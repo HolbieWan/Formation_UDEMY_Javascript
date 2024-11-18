@@ -1,4 +1,4 @@
-console.log("Hello boy!");
+// console.log("Hello boy!");
 
 const prenom = "Marcel";
 const nom = "Dupont";
